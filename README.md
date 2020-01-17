@@ -16,9 +16,9 @@ Copyleft 2001 by D.H.Grand(nOBODY/Ginux), 2010 by Gasolin, 2015 by Ryan Wu
 
 协助指出翻译问题，**请[发 Issue](https://github.com/ryanhanwu/smartquestions/issues/new)，或直接[发 Pull Request](https://github.com/ryanhanwu/smartquestions/compare/) 给我。**
 
-本文另有[繁體中文版](https://github.com/BaiduCraft/How-To-Ask-Questions-The-Smart-Way/blob/master/README-zh_TW.md)。
+本文另有[繁體中文版](https://github.com/BaiduCraft/How-To-Ask-Questions-The-Smart-Way/blob/master/README-zh_TW)。
 
-## [原文版本历史](https://github.com/BaiduCraft/How-To-Ask-Questions-The-Smart-Way/blob/master/history.md)
+## [原文版本历史](https://github.com/BaiduCraft/How-To-Ask-Questions-The-Smart-Way/blob/master/history)
 
 ## 目录
 
